@@ -1,5 +1,5 @@
 # uwuifier
-A Powercord plugin to change your message with a uwuified version of
+A Powercord plugin to change your message with a uwuified version of them.
 
 ### Commands
 `{yourPowercordPrefix}uwu` - all your messages will get uwuified.
